@@ -46,3 +46,6 @@ pipenv run pip install torch==1.7.0+cu101 torchvision==0.8.1+cu101 torchaudio===
 
 7. pipenv run python demo_video.py --input inputs/test2.mp4 로 결과 확인
 
+---
+- 작업 레포 : https://github.com/vkfkd1107/vision30
+
