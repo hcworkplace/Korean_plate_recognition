@@ -1,4 +1,4 @@
-# vision30
+# Korean_plate_recognition
 
 * pipfile을 이용한 설치
 
